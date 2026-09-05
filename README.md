@@ -19,4 +19,10 @@ A Java-based HTTP server project built with Spring Boot and Maven.
 mvn spring-boot:run
 ```
 
+run manually http 
+
+```bash
+java -cp target/classes co.edu.escuelaing.httpServer.HttpServer
+```
+
 The server listens on port `35000`.
